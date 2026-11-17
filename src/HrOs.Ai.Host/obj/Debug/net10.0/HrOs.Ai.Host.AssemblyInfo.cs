@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HrOs.Ai.Host")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e317f370bb62392a55b6b6f03504d2e88089496")]
 [assembly: System.Reflection.AssemblyProductAttribute("HrOs.Ai.Host")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HrOs.Ai.Host")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

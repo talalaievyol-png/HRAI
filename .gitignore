@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+# Keys and settings for this machine: never commit.
+.env
+.env.*
+!.env.example

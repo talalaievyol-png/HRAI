@@ -265,6 +265,18 @@ Settings are read from `appsettings.json` or environment variables (a double und
 | `Ai:ScreeningTimeoutSeconds` | 360 | Whole-screening limit. |
 | `Ai:ProfileCacheSize`, `Ai:ProfileCacheMinutes` | 128, 60 | CV extraction cache. |
 
+Example for a host that reaches the models by name (testing; fake CVs only):
+
+```
+Service__ApiKey=<host key given to the HRMS developers>
+Ai__ChatUrl=https://hr-chat.nprevyol.online/v1
+Ai__EmbedUrl=https://hr-embed.nprevyol.online/v1
+Ai__EmailUrl=https://hr-email.nprevyol.online/v1
+Ai__ApiKey=<vLLM key, never given to developers>
+```
+
+The two keys must differ. The tunnel setup and the checks are in `docs/deploy.md` (section 7) of the HR OS repository.
+
 The models themselves are started separately (vLLM, one server per model). See `docs/vllm.md` and `docs/deploy.md` in the HR OS repository.
 
 ## 8. Prompts
