@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="3.5.1" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="10.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="10.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="10.0.0" />
+    <PackageReference Include="PdfPig" Version="0.1.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="HrOs.Ai.Tests" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Every prompt text under Prompts/ (and Prompts/text/) is embedded under a flat name,
+         for example HrOs.Ai.Prompts.requirement_matching.txt. The Python reference reads the same files. -->
+    <EmbeddedResource Include="Prompts/**/*.txt" LogicalName="HrOs.Ai.Prompts.%(Filename)%(Extension)" />
+  </ItemGroup>
+
+</Project>

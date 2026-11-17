@@ -1,0 +1,12 @@
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\bin\Release\net10.0\HrOs.Ai.deps.json
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\bin\Release\net10.0\HrOs.Ai.dll
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\bin\Release\net10.0\HrOs.Ai.pdb
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\obj\Release\net10.0\HrOs.Ai.csproj.AssemblyReference.cache
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\obj\Release\net10.0\HrOs.Ai.GeneratedMSBuildEditorConfig.editorconfig
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\obj\Release\net10.0\HrOs.Ai.AssemblyInfoInputs.cache
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\obj\Release\net10.0\HrOs.Ai.AssemblyInfo.cs
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\obj\Release\net10.0\HrOs.Ai.csproj.CoreCompileInputs.cache
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\obj\Release\net10.0\HrOs.Ai.dll
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\obj\Release\net10.0\refint\HrOs.Ai.dll
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\obj\Release\net10.0\HrOs.Ai.pdb
+E:\Talal Works\HROS\dotnet\src\HrOs.Ai\obj\Release\net10.0\ref\HrOs.Ai.dll

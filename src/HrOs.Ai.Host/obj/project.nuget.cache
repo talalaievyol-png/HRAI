@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "97Qmq4dtwxM=",
+  "success": true,
+  "projectFilePath": "E:\\Talal Works\\HROS\\dotnet\\src\\HrOs.Ai.Host\\HrOs.Ai.Host.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Evyol AI\\.nuget\\packages\\documentformat.openxml\\3.5.1\\documentformat.openxml.3.5.1.nupkg.sha512",
+    "C:\\Users\\Evyol AI\\.nuget\\packages\\documentformat.openxml.framework\\3.5.1\\documentformat.openxml.framework.3.5.1.nupkg.sha512",
+    "C:\\Users\\Evyol AI\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.15\\microsoft.aspnetcore.openapi.10.0.15.nupkg.sha512",
+    "C:\\Users\\Evyol AI\\.nuget\\packages\\microsoft.openapi\\2.13.0\\microsoft.openapi.2.13.0.nupkg.sha512",
+    "C:\\Users\\Evyol AI\\.nuget\\packages\\pdfpig\\0.1.16\\pdfpig.0.1.16.nupkg.sha512",
+    "C:\\Users\\Evyol AI\\.nuget\\packages\\system.io.packaging\\10.0.2\\system.io.packaging.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

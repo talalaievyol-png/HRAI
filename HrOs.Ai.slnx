@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HrOs.Ai.Host/HrOs.Ai.Host.csproj" />
+    <Project Path="src/HrOs.Ai/HrOs.Ai.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HrOs.Ai.Tests/HrOs.Ai.Tests.csproj" />
+  </Folder>
+</Solution>
